@@ -1,12 +1,12 @@
 # Candy-Crush-Game
 
 Programming Fundamentals Project (Fall 2025)
- Hadia Noor
-This is a classic match-3 puzzle game, inspired by Candy Crush, built using C++ and the SFML.
-Getting Started
-To compile and run this game, you'll need a C++ compiler and the SFML library correctly set up in your IDE.
-Prerequisites
-1.C++ Compiler: G++ or similar (required for modern C++ standards).
+Hadia Noor <br>
+This is a classic match-3 puzzle game, inspired by Candy Crush, built using C++ and the SFML. <br>
+Getting Started <br>
+To compile and run this game, you'll need a C++ compiler and the SFML library correctly set up in your IDE.<br>
+Prerequisites<br>
+1.C++ Compiler: G++ or similar (required for modern C++ standards).  <br>
 2.SFML Library: You must have SFML 3.1.0 or later installed.
 This project uses sfml-graphics, sfml-window, and sfml-system.
 3.Assets Folder: You need an assets folder in the same directory as your compiled executable containing the required font and image files (5 base, 5 horizontal striped, 5 vertical striped, 5 wrapped, 1 color bomb, and background).
@@ -43,3 +43,4 @@ Win/Lose Conditions
 Lose: The timer reaches 0 seconds.
 
 
+![alt text](<Screenshot 2026-06-18 234507.png>)
